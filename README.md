@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayakGH&theme=rose_pine&border=false&include_all_commits=false&count_private=false" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api?username=sayakgh&show_icons=true&locale=en&theme=dark" alt="sayakgh" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakGH&theme=rose_pine&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
 <!--
