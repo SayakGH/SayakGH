@@ -1,38 +1,105 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi 👋, I'm Sayak Ghosh</h1>
-<h3 align="center">A passionate engineer solving problems and building real solutions.</h3>
-<img
-  align=right width=400
-  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Backend+Engineer;MERN+Developer;Cloud+Developer;I+Build+Scalable+Systems" />
+</p>
 
-- 🌱 I’m currently learning **react native**
-
-- 🤝 I’m looking for **colaboration**
-
-- 💬 Ask me about **fullstack and Devops**
-
-- 📫 How to reach me **sayakghosh2004sg@gmail.com**
-
-- ⚡ Fun fact **I think I can code.**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+ <h1 align="center">Hi 👋, I'm Sayak Ghosh</h1> 
+<!-- <h3 align="center">Backend Engineer | Cloud Developer</h3> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayakGH&theme=rose_pine&border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakGH&theme=rose_pine&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+I build scalable backend systems, APIs and real-world engineering solutions.  
+Passionate about distributed systems, DevOps and AI-powered applications.
 </p>
+
+---
+
+<img 
+align="right" 
+width="400"
+src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+/>
+
+## 🚀 About Me
+
+- 🎓 Final Year **Computer Science Engineering Student**
+- 💻 **Backend Developer (Node.js, MongoDB, APIs)**
+- ⚙️ Currently learning **AI & Cloud**
+- 🧠 Interested in **Distributed Systems, AI Systems & Scalable Backend Architecture**
+- 🏆 Qualified **Smart India Hackathon Internal Rounds (2023 & 2024)**
+- 🌐 Building **AI tools, Web3 apps and backend-heavy projects**
+- 🤝 Open to **collaborations and working oppurtunities**
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux" />
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SayakGH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SayakGH&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SayakGH&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Sayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SayakGH&theme=react-dark)](https://github.com/SayakGH)
+
+---
+
+# 🧠 Current Focus
+
+- Building **AI Developer Tools**
+- Learning **DevOps & scalable system design**
+- Developing **backend-heavy production applications**
+- Exploring **AI agents and distributed systems**
+
+---
+
+# 🌍 Connect With Me
+
+📧 **Email:** sayakghosh2004sg@gmail.com  
+
+---
+
+# ⚡ Fun Fact
+
+> I love building systems that scale and solving problems through code.
+
+---
+
 <!--
-**SayakGH/SayakGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**SayakGH/SayakGH** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
